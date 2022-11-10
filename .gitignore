@@ -1,0 +1,6 @@
+# ignore all unrelevant files
+dump*
+*.dat
+out
+drop.*
+
