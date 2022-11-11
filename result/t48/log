@@ -1,0 +1,1 @@
+#1: t; 2: dt; 3: xc; 4, uc; 5:ymax_drop; 6:xmax_drop; 7: xmin_drop; 8: xmax_axis_drop; 9:xmin_axis_drop; 10: xmax_axis_film; 11: KE_gas; 12: KE_drop; 13:KE_film; 14: vol_drop; 15: area_drop; 16: n_grid; 17: cput; 18: speed; 19: u_xmax; 20: u_ymax
