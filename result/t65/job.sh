@@ -21,7 +21,7 @@ max_level=11
 L=8
 
 t_out=0.002
-t_end=0.990
+t_end=4.990
 h=4.
 
 rhog=0.001227
